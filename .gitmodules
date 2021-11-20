@@ -1,0 +1,3 @@
+[submodule "trelloapp"]
+	path = trelloapp
+	url = https://github.com/filiphric/trelloapp-vue-vite-ts.git

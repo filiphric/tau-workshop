@@ -1,0 +1,6 @@
+{
+  "baseUrl": "http://localhost:3000",
+  "ignoreTestFiles": "*.md",
+  "viewportHeight": 500,
+  "viewportWidth": 700
+}
